@@ -1,0 +1,1 @@
+export {relaySignDataERC2771} from './signDataERC2771'
